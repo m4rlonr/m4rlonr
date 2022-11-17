@@ -1,5 +1,5 @@
-# Olá eu sou Marlon Rodrigues 
-### ou o MR
+# Olá eu sou Marlon Rodrigues
+## e para algums sou o MR!
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
