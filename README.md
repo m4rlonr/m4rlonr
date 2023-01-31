@@ -32,6 +32,8 @@
 	<a href="https://m4rlonr.github.io/mrl/" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/Marlon%20Rodrigues-Portf%C3%B3lio-9644F4?style=flat&color=9644F4" title="Portfólio" /></a>
 </p>
 
+🧔🏻 Meu nome é **Marlon Rodrigues**, tenho 23 anos, sou brasileiro formado em Ciência da Computação pela UNEMAT, sou desenvolvedor Full Stack com experiencia em Web, Mobile e Microcontroladores.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
