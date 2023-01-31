@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/m4rlonr/m4rlonr?style=flat&color=9644F4)
 ![Views Counter](https://komarev.com/ghpvc/?username=m4rlonr&color=blueviolet)
 
-# Olá, eu sou Marlon Rodrigues ou MR
+🧔🏻 Meu nome é **Marlon Rodrigues** e meus amigos me conhecem como MR, tenho 23 anos, sou brasileiro formado em Ciência da Computação pela UNEMAT, sou desenvolvedor Full Stack com experiencia em Web, Mobile e Microcontroladores, tendo projetos multiplataforma que é a serejinha do bolo.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
