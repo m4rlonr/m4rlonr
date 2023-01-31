@@ -64,7 +64,6 @@
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=midnight-purple&hide_border=true" title="Top Langs"/>
 
 Algumas das tecnologias que você pode encontrar no meu repositório GitHub:
-
 - 🔤 **Línguagens**: JavaScript, TypeScriptm, Python, C e C++.
 - 🔜 **Front-End**: React e VueJS.
 - 🔙 **Back-End**: Django e Node.
@@ -72,15 +71,9 @@ Algumas das tecnologias que você pode encontrar no meu repositório GitHub:
 - 🏷️ **Controle de versão**: Git e GitHub.
 - 👷🏻 **Arquitetura de código**: Rest API
 
-Algumas das tecnologias que você pode encontrar no meu repositório GitHub:
+Algumas informações sobre mim:
+- 🔭 Atualmente estou trabalhando em: Projetos particulares, projetos esses que disponibilizo para amigos e familia
+- 🌱 Atualmente estou aprendendo: Automação industrial, Mercado Digital e tecnologias Saas
+- 📫 Como entrar em contato comigo: Redes sociais
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
