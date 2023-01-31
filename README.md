@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/m4rlonr?style=flat&color=9644F4)
 ![GitHub User's stars](https://img.shields.io/github/stars/m4rlonr?style=flat&color=9644F4)
 ![GitHub last commit](https://img.shields.io/github/last-commit/m4rlonr/m4rlonr?style=flat&color=9644F4)
-![Views Counter](https://komarev.com/ghpvc/?username=m4rlonr&color=blueviolet)
+![Views Counter](https://gpvc.arturio.dev/m4rlonr&color=blueviolet)
 
 🧔🏻 Meu nome é **Marlon Rodrigues** e meus amigos me conhecem como MR, tenho 23 anos, sou brasileiro formado em Ciência da Computação pela UNEMAT, sou desenvolvedor Full Stack com experiencia em Web, Mobile e Microcontroladores, tendo projetos multiplataforma que é a serejinha do bolo.
 
