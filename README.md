@@ -34,10 +34,45 @@
 
 🧔🏻 Meu nome é **Marlon Rodrigues**, tenho 23 anos, sou brasileiro formado em Ciência da Computação pela UNEMAT, sou desenvolvedor Full Stack com experiencia em Web, Mobile e Microcontroladores.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/m4rlonr)
+<!-- GitHub Stats -->
+
+<img alt="Contribuições do Github" src="https://github-readme-streak-stats.herokuapp.com/?user=m4rlonr&theme=midnight-purple&hide_border=true" title="Contribuições do Github"/>
+
+<img alt="Estatística do GitHub de Marlon Rodrigues" src="https://github-readme-stats.vercel.app/api?username=m4rlonr&theme=midnight-purple&show_icons=true&hide_border=true" title="Estatística do GitHub de Marlon Rodrigues"/>
+
+<!-- Skills -->
+
+## Habilidades 👨🏻‍💻
+
+<!-- Languages, libs and frameworks -->
+
+
+![C](https://img.shields.io/badge/C-000?style=flat&logoColor=9644F4&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat&logoColor=9644F4&logo=c%2B%2B&)
+![C#](	https://img.shields.io/badge/Markdown-000000?style=flat&logoColor=9644F4&logo=markdown)
+![ReactNative](https://img.shields.io/badge/-React_Native-000?style=flat&logo=react&logoColor=9644F4)
+![Dajngo](https://img.shields.io/badge/Django-000?style=flat&logo=django&logoColor=9644F4)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=9644F4)
+![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=json&logoColor=9644F4)
+![HTML5](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5&logoColor=9644F4)
+![CSS3](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=9644F4)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?fff&style=flat&logo=javascript&logoColor=9644F4)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=9644F4&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=9644F4)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python&logoColor=9644F4)
+
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=midnight-purple&hide_border=true" title="Top Langs"/>
+
+Algumas das tecnologias que você pode encontrar no meu repositório GitHub:
+
+- 🔤 **Línguagens**: JavaScript, TypeScriptm, Python, C e C++.
+- 🔜 **Front-End**: React e VueJS.
+- 🔙 **Back-End**: Django e Node.
+- 🎲 **Banco de dados**: PostgreSQL.
+- 🏷️ **Controle de versão**: Git e GitHub.
+- 👷🏻 **Arquitetura de código**: Rest API
+
+Algumas das tecnologias que você pode encontrar no meu repositório GitHub:
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
