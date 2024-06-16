@@ -22,16 +22,11 @@
 🧔🏻 Meu nome é **Marlon Rodrigues**, tenho 24 anos, sou brasileiro formado em Ciência da Computação pela UNEMAT, sou desenvolvedor Full Stack com experiencia em Web, Mobile e Microcontroladores.
 
 <!-- GitHub Stats -->
-
 <img alt="Contribuições do Github" src="https://github-readme-streak-stats.herokuapp.com/?user=m4rlonr&theme=midnight-purple&hide_border=true" title="Contribuições do Github"/>
-
 <img alt="Estatística do GitHub de Marlon Rodrigues" src="https://github-readme-stats.vercel.app/api?username=m4rlonr&theme=midnight-purple&show_icons=true&hide_border=true" title="Estatística do GitHub de Marlon Rodrigues"/>
 
 <!-- Adicionando novas estatísticas -->
 <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=midnight-purple&hide_border=true" title="Linguagens mais usadas"/>
-
-<img alt="Atividade semanal" src="https://github-readme-activity-graph.cyclic.app/graph?username=m4rlonr&theme=midnight-purple&hide_border=true" title="Atividade semanal"/>
-
 
 <!-- Skills -->
 
