@@ -27,6 +27,14 @@
 
 <img alt="Estatística do GitHub de Marlon Rodrigues" src="https://github-readme-stats.vercel.app/api?username=m4rlonr&theme=midnight-purple&show_icons=true&hide_border=true" title="Estatística do GitHub de Marlon Rodrigues"/>
 
+<!-- Adicionando novas estatísticas -->
+<img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=midnight-purple&hide_border=true" title="Linguagens mais usadas"/>
+
+<img alt="Atividade semanal" src="https://github-readme-activity-graph.cyclic.app/graph?username=m4rlonr&theme=midnight-purple&hide_border=true" title="Atividade semanal"/>
+
+<img alt="Commits por dia da semana" src="https://github-readme-stats.vercel.app/api/wakatime?username=m4rlonr&layout=compact&theme=midnight-purple&hide_border=true" title="Commits por dia da semana"/>
+
+
 <!-- Skills -->
 
 ## Habilidades 👨🏻‍💻
