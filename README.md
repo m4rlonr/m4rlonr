@@ -2,11 +2,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/m4rlonr?style=for-the-badge&color=9644F4)
 ![GitHub last commit](https://img.shields.io/github/last-commit/m4rlonr/m4rlonr?style=for-the-badge&color=9644F4)
 ![Views Counter](https://komarev.com/ghpvc/?username=m4rlonr&style=for-the-badge&color=blueviolet)
-![GitHub forks](https://img.shields.io/github/forks/m4rlonr?style=for-the-badge&color=9644F4)
-![GitHub issues](https://img.shields.io/github/issues/m4rlonr?style=for-the-badge&color=9644F4)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/m4rlonr?style=for-the-badge&color=9644F4)
-![GitHub license](https://img.shields.io/github/license/m4rlonr?style=for-the-badge&color=9644F4)
-
 ## Olá, como vai? 👋🏻
 
 
