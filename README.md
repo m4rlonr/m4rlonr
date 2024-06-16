@@ -15,7 +15,7 @@
 	<!-- Github -->
 	<a href="https://github.com/m4rlonr" target="_blank"><img alt="GitHub Badge" src="https://img.shields.io/badge/-m4rlonr-9644F4?style=for-the-badge&logo=github&logoColor=white" title="GitHub Badge" /></a>
 	<!-- Portfolio -->
-	<a href="https://github.com/m4rlonr/m4rlonr.github.io" target="_blank"><img alt="Portfólio" src="https://img.shields.io/badge/Marlon%20Rodrigues-Portf%C3%B3lio-9644F4?style=for-the-badge&color=9644F4" title="Portfólio" /></a>
+	<a href="m4rlonr.github.io/" target="_blank"><img alt="Portfólio" src="https://img.shields.io/badge/Marlon%20Rodrigues-Portf%C3%B3lio-9644F4?style=for-the-badge&color=9644F4" title="Portfólio" /></a>
 </p>
 
 
