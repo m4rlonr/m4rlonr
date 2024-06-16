@@ -32,8 +32,6 @@
 
 <img alt="Atividade semanal" src="https://github-readme-activity-graph.cyclic.app/graph?username=m4rlonr&theme=midnight-purple&hide_border=true" title="Atividade semanal"/>
 
-<img alt="Commits por dia da semana" src="https://github-readme-stats.vercel.app/api/wakatime?username=m4rlonr&layout=compact&theme=midnight-purple&hide_border=true" title="Commits por dia da semana"/>
-
 
 <!-- Skills -->
 
@@ -55,8 +53,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=9644F4&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=9644F4)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python&logoColor=9644F4)
-
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=midnight-purple&hide_border=true" title="Top Langs"/>
 
 Algumas das tecnologias que você pode encontrar no meu repositório GitHub:
 - 🔤 **Línguagens**: JavaScript, TypeScriptm, Python, C e C++.
