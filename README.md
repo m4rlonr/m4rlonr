@@ -1,5 +1,3 @@
-<!-- Info repo -->
-
 ![GitHub followers](https://img.shields.io/github/followers/m4rlonr?style=flat&color=9644F4)
 ![GitHub User's stars](https://img.shields.io/github/stars/m4rlonr?style=flat&color=9644F4)
 ![GitHub last commit](https://img.shields.io/github/last-commit/m4rlonr/m4rlonr?style=flat&color=9644F4)
