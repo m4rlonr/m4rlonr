@@ -10,7 +10,6 @@
 ## Olá, como vai? 👋🏻
 
 
-
 <!-- Social Networks -->
 <p align="left">
 	<!-- Linkedin 
