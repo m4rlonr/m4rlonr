@@ -8,13 +8,13 @@
 <!-- Social Networks -->
 <p align="left">
 	<!-- E-mail -->
-	<a href="mailto:mrl.rodrigues2000@gmail.com" target="_blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Marlon%20Rodrigues-9644F4?&style=flat&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
+	<a href="mailto:mrl.rodrigues2000@gmail.com" target="_blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Marlon%20Rodrigues-9644F4?&style=for-the-badge&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
 	<!-- Whatsapp -->
-	<a href="https://api.whatsapp.com/send?phone=+5565984060387&text=Olá,+tudo+bem?&source=&data=&app_absent=" target="_blank"><img alt="Whatsapp Badge" src="https://img.shields.io/badge/-Marlon%20Rodrigues-9644F4?&style=flat&logo=Whatsapp&logoColor=white" title="Whatsapp Badge" /></a>
+	<a href="https://api.whatsapp.com/send?phone=+5565984060387&text=Olá,+tudo+bem?&source=&data=&app_absent=" target="_blank"><img alt="Whatsapp Badge" src="https://img.shields.io/badge/-Marlon%20Rodrigues-9644F4?&style=for-the-badge&logo=Whatsapp&logoColor=white" title="Whatsapp Badge" /></a>
 	<!-- Github -->
-	<a href="https://github.com/m4rlonr" target="_blank"><img alt="GitHub Badge" src="https://img.shields.io/badge/-m4rlonr-9644F4?style=flat&logo=github&logoColor=white" title="GitHub Badge" /></a>
+	<a href="https://github.com/m4rlonr" target="_blank"><img alt="GitHub Badge" src="https://img.shields.io/badge/-m4rlonr-9644F4?style=for-the-badge&logo=github&logoColor=white" title="GitHub Badge" /></a>
 	<!-- Portfolio -->
-	<a href="[https://github.com/m4rlonr/m4rlonr.github.io](https://m4rlonr.github.io/#/)" target="_blank"><img alt="Portfólio" src="https://img.shields.io/badge/Marlon%20Rodrigues-Portf%C3%B3lio-9644F4?style=flat&color=9644F4" title="Portfólio" /></a>
+	<a href="https://m4rlonr.github.io/#/" target="_blank"><img alt="Portfólio" src="https://img.shields.io/badge/Marlon%20Rodrigues-Portf%C3%B3lio-9644F4?style=for-the-badge&color=9644F4" title="Portfólio" /></a>
 </p>
 
 
