@@ -1,6 +1,10 @@
 <div align="center">
-  <h1>👋 Olá, eu sou Marlon Rodrigues!</h1>
-  <h3>Desenvolvedor Full Stack | Especialista em Web & Mobile</h3>
+  <img src="https://komarev.com/ghpvc/?username=m4rlonr&style=for-the-badge&color=2563EB" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h1>�� Olá, eu sou Marlon Rodrigues!</h1>
+  <h3> Desenvolvedor Full Stack | Especialista em Web & Mobile</h3>
 </div>
 
 <div align="center">
@@ -13,10 +17,10 @@
 
 Desenvolvedor Full Stack apaixonado por tecnologia, com formação em **Ciência da Computação** pela UNEMAT. Especializado em desenvolvimento Web, Mobile e IoT, sempre buscando soluções inovadoras e eficientes.
 
-- �� **Formação:** Ciência da Computação - UNEMAT
+- **Formação:** Ciência da Computação - UNEMAT
 - 💻 **Especialização:** Full Stack Development
-- �� **Foco:** Web, Mobile e IoT
-- 🇧�� **Localização:** Brasil
+- **Foco:** Web, Mobile e IoT
+- �� **Localização:** Brasil
 
 ---
 
@@ -70,21 +74,11 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com formação em **Ciência
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=github_dark&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=m4rlonr&theme=github_dark&hide_border=true&layout=compact&langs_count=6&custom_title=Tempo%20de%20Código%20(WakaTime)" alt="WakaTime Stats" />
-</div>
-
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Projetos Públicos
 
 <div align="center">
-  <a href="https://github.com/m4rlonr/api_plataforma_agricola">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=api_plataforma_agricola&theme=github_dark" />
-  </a>
-  <a href="https://github.com/m4rlonr/controle-financeiro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=controle-financeiro&theme=github_dark" />
-  </a>
   <a href="https://github.com/m4rlonr/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=portfolio&theme=github_dark" />
   </a>
@@ -92,11 +86,12 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com formação em **Ciência
 
 ---
 
-## �� Metas & Objetivos
+## 🎯 Objetivos Profissionais
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rlonr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Progresso%20Anual" alt="Annual Progress" />
-</div>
+- 🚀 **Crescimento Contínuo:** Sempre aprendendo novas tecnologias e frameworks
+- 💼 **Impacto Profissional:** Desenvolver soluções que façam a diferença
+- 🌐 **Expansão Global:** Contribuir para projetos open source internacionais
+- �� **Mentoria:** Compartilhar conhecimento com a comunidade dev
 
 ---
 
@@ -118,10 +113,4 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com formação em **Ciência
   <a href="https://codecommr.com.br">
     <img src="https://img.shields.io/badge/CodeCommR-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=m4rlonr&style=for-the-badge&color=2563EB" alt="Profile Views" />
 </div>
