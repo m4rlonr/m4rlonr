@@ -7,7 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=m4rlonr&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
-
 ---
 
 ## 🚀 Sobre Mim
@@ -56,15 +55,23 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com formação em **Ciência
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade & Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rlonr&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rlonr&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rlonr&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rlonr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rlonr&theme=github-dark&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=github_dark&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=m4rlonr&theme=github_dark&hide_border=true&layout=compact&langs_count=6&custom_title=Tempo%20de%20Código%20(WakaTime)" alt="WakaTime Stats" />
 </div>
 
 ---
@@ -73,14 +80,22 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com formação em **Ciência
 
 <div align="center">
   <a href="https://github.com/m4rlonr/api_plataforma_agricola">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=api_plataforma_agricola&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=api_plataforma_agricola&theme=github_dark" />
   </a>
   <a href="https://github.com/m4rlonr/controle-financeiro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=controle-financeiro&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=controle-financeiro&theme=github_dark" />
   </a>
   <a href="https://github.com/m4rlonr/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=portfolio&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=portfolio&theme=github_dark" />
   </a>
+</div>
+
+---
+
+## �� Metas & Objetivos
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rlonr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Progresso%20Anual" alt="Annual Progress" />
 </div>
 
 ---
