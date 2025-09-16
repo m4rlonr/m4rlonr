@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou Marlon Rodrigues!</h1>
-  <h3>�� Desenvolvedor Full Stack | �� Especialista em Web & Mobile</h3>
+  <h3>Desenvolvedor Full Stack | Especialista em Web & Mobile</h3>
 </div>
 
 <div align="center">
