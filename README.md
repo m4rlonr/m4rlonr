@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>�� Olá, eu sou Marlon Rodrigues!</h1>
+  <h1> Olá, eu sou Marlon Rodrigues!</h1>
   <h3> Desenvolvedor Full Stack | Especialista em Web & Mobile</h3>
 </div>
 
@@ -20,7 +20,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com formação em **Ciência
 - **Formação:** Ciência da Computação - UNEMAT
 - 💻 **Especialização:** Full Stack Development
 - **Foco:** Web, Mobile e IoT
-- �� **Localização:** Brasil
+-  **Localização:** Brasil
 
 ---
 
@@ -91,7 +91,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com formação em **Ciência
 - 🚀 **Crescimento Contínuo:** Sempre aprendendo novas tecnologias e frameworks
 - 💼 **Impacto Profissional:** Desenvolver soluções que façam a diferença
 - 🌐 **Expansão Global:** Contribuir para projetos open source internacionais
-- �� **Mentoria:** Compartilhar conhecimento com a comunidade dev
+-  **Mentoria:** Compartilhar conhecimento com a comunidade dev
 
 ---
 
