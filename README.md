@@ -13,9 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=m4rlonr&style=for-the-badge&color=2563EB" alt="Profile Views" />
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
+---
 
 ### 🚀 Sobre Mim
 Desenvolvedor Full Stack formado em **Ciência da Computação** pela UNEMAT, apaixonado por transformar ideias em soluções digitais inovadoras e eficientes. Com forte experiência em ecossistemas Web, Mobile e IoT, meu objetivo é construir tecnologia que impacta positivamente a vida das pessoas e os negócios.
@@ -25,20 +23,14 @@ Desenvolvedor Full Stack formado em **Ciência da Computação** pela UNEMAT, ap
 - 💡 Focado em arquiteturas limpas, escaláveis e de alta performance.
 - 🌎 Residente no Brasil, disponível para projetos globais.
 
-    </td>
-    <td valign="top" width="35%">
+---
 
-### 🛠️ Minha Stack
-
+### 🛠️ Minha Stack Tecnológica
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,express,python,django,postgres,mysql,git,docker,vscode,n8n&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,express,python,django,postgres,mysql,git,docker,vscode,n8n&perline=8&theme=dark" />
   </a>
 </p>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -56,10 +48,14 @@ Desenvolvedor Full Stack formado em **Ciência da Computação** pela UNEMAT, ap
 ### 📊 Minhas Estatísticas e Atividades no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4rlonr&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=m4rlonr&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <a href="https://github.com/m4rlonr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4rlonr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rlonr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=m4rlonr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -71,6 +67,6 @@ Desenvolvedor Full Stack formado em **Ciência da Computação** pela UNEMAT, ap
 ### 🌟 Projeto em Destaque
 <div align="center">
   <a href="https://github.com/m4rlonr/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=portfolio&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rlonr&repo=portfolio&theme=tokyonight" />
   </a>
 </div>
