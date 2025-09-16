@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=500&height=50&lines=Olá%2C+eu+sou+Marlon+Rodrigues!;Desenvolvedor+Full+Stack;Especialista+em+Web+%26+Mobile" alt="Typing SVG" />
+  <h1>👋 Olá, eu sou Marlon Rodrigues!</h1>
+  <h3>�� Desenvolvedor Full Stack | �� Especialista em Web & Mobile</h3>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=m4rlonr&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
+
 
 ---
 
