@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://codecommr.com.br" target="_blank">
-    <img src="https://i.imgur.com/9C1t1aP.png" alt="CodeCommR Banner"/>
-  </a>
   <br>
   <h1>Olá, eu sou Marlon Rodrigues! 👋</h1>
   <h3>Desenvolvedor Full Stack | Web, Mobile & IoT Specialist</h3>
