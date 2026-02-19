@@ -7,7 +7,7 @@
 Pego problemas e transformo em inovação.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrl.rodrigues2000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-rodrigues-a8a341173/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m4rlonrodrigues/)
 [![YouTube](https://img.shields.io/badge/CodeComMR-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@codecommr)
 [![CCMR](https://img.shields.io/badge/CCMR-000?style=flat-square&logo=code&logoColor=white)](https://codecommr.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5565984060387)
