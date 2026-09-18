@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Marlon Rodrigues</title>
+  <desc id="desc">Sua equipe precisa de tempo para fazer o negócio andar. Fontes de dados conectadas a um painel de indicadores.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0b1423"/>
+      <stop offset="1" stop-color="#142d38"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#a5d8e8" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M56 64H112" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="56" y="104" fill="#91b4c5" font-size="13" letter-spacing="3">SUA OPERAÇÃO PODE FUNCIONAR MELHOR</text>
+    <text x="52" y="172" fill="#f1f5f9" font-size="49" font-weight="700" letter-spacing="-2">Marlon Rodrigues</text>
+    <text x="56" y="220" fill="#c4d5df" font-size="22">Menos retrabalho. Mais tempo para agir.</text>
+    <text x="56" y="295" fill="#5eead4" font-size="14" letter-spacing="1">AGRONEGÓCIO + SOLUÇÕES SOB MEDIDA</text>
+  </g>
+  <g fill="none" stroke="#5eead4" stroke-opacity=".5" stroke-width="2">
+    <path d="M788 105H824Q842 105 842 123V176H886"/>
+    <path d="M788 180H886"/>
+    <path d="M788 255H824Q842 255 842 237V184H886"/>
+  </g>
+  <g fill="#152b3a" stroke="#385565">
+    <rect x="718" y="78" width="70" height="54" rx="12"/>
+    <rect x="718" y="153" width="70" height="54" rx="12"/>
+    <rect x="718" y="228" width="70" height="54" rx="12"/>
+    <rect x="886" y="94" width="258" height="172" rx="16"/>
+  </g>
+  <g fill="none" stroke="#9ac8d8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="753" cy="98" rx="13" ry="5"/>
+    <path d="M740 98V113C740 120 766 120 766 113V98M740 106C740 113 766 113 766 106"/>
+    <path d="M740 169H766V192H740ZM740 177H766M749 177V192"/>
+    <path d="m747 247-9 8 9 8m12-16 9 8-9 8"/>
+  </g>
+  <circle cx="904" cy="112" r="3" fill="#5eead4"/>
+  <path d="M917 112H978" stroke="#537685" stroke-width="4" stroke-linecap="round"/>
+  <path d="M908 242H1122" stroke="#385565"/>
+  <g fill="url(#accent)">
+    <rect x="915" y="204" width="25" height="30" rx="4" opacity=".35"/>
+    <rect x="954" y="184" width="25" height="50" rx="4" opacity=".5"/>
+    <rect x="993" y="196" width="25" height="38" rx="4" opacity=".65"/>
+    <rect x="1032" y="161" width="25" height="73" rx="4" opacity=".8"/>
+    <rect x="1071" y="143" width="25" height="91" rx="4"/>
+  </g>
+</svg>
