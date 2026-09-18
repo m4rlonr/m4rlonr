@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Marlon Rodrigues</title>
   <desc id="desc">Sua equipe precisa de tempo para fazer o negócio andar. Fontes de dados conectadas a um painel de indicadores.</desc>
+  <style>@keyframes dataflow{to{stroke-dashoffset:-32}} .dataflow{stroke-dasharray:8 8;animation:dataflow 2s linear infinite}@media(prefers-reduced-motion:reduce){.dataflow{animation:none}}</style>
   <defs>
     <linearGradient id="background" x2="1" y2="1">
       <stop stop-color="#0b1423"/>
@@ -23,7 +24,7 @@
     <text x="56" y="220" fill="#c4d5df" font-size="22">Menos retrabalho. Mais tempo para agir.</text>
     <text x="56" y="295" fill="#5eead4" font-size="14" letter-spacing="1">AGRONEGÓCIO + SOLUÇÕES SOB MEDIDA</text>
   </g>
-  <g fill="none" stroke="#5eead4" stroke-opacity=".5" stroke-width="2">
+  <g class="dataflow" fill="none" stroke="#5eead4" stroke-opacity=".5" stroke-width="2">
     <path d="M788 105H824Q842 105 842 123V176H886"/>
     <path d="M788 180H886"/>
     <path d="M788 255H824Q842 255 842 237V184H886"/>
